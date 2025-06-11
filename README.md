@@ -22,3 +22,7 @@ Após ativar o ambiente virtual, será necessário instalar as dependências nec
 ```
 pip install -r requirements.txt
 ```
+Com isso, o projeto está pronto para ser rodado, o que pode ser feito através da linha:
+```
+python main.py
+```
